@@ -1,5 +1,5 @@
 # Credit-Card-Fraud
-In thismachine learning project, we solve the problem of detection credit card fraud transaction using machin learning pyton librarues numpy, sckit-learn and fewother libraries. we overcome this problem by creating a binary classifier using *logistic regression* 
+In this machine learning project, we solve the problem of detection credit card fraud transaction using machin learning pyton librarues numpy, sckit-learn and few other libraries. we overcome this problem by creating a binary classifier using *logistic regression* 
 
 Steps to solve the problem:
 1. Importing the required libraries
